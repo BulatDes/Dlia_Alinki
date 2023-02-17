@@ -1,0 +1,11 @@
+E:\2 Семестр\ПТПМ\pract 19\bin\Debug\pract 19.exe.config
+E:\2 Семестр\ПТПМ\pract 19\bin\Debug\pract 19.exe
+E:\2 Семестр\ПТПМ\pract 19\bin\Debug\pract 19.pdb
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.csproj.AssemblyReference.cache
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.csproj.SuggestedBindingRedirects.cache
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract_19.Form1.resources
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract_19.Properties.Resources.resources
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.csproj.GenerateResource.cache
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.csproj.CoreCompileInputs.cache
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.exe
+E:\2 Семестр\ПТПМ\pract 19\obj\Debug\pract 19.pdb
